@@ -19,5 +19,5 @@ This application is my updated portfolio with some of my currrent work. The page
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Contact Info
-E-Mail: devinnguyen@ucsb.edu
-[LinkedIn](https://www.linkedin.com/in/devin-nguyen-9a0676212/)
+* E-Mail: devinnguyen@ucsb.edu
+* [LinkedIn](https://www.linkedin.com/in/devin-nguyen-9a0676212/)
