@@ -12,3 +12,12 @@ This application is my updated portfolio with some of my currrent work. The page
 
 ## Screenshots and GIFs
 ![Portfolio](./assets/Images/Screenshot%20(52).png)
+
+![GIF](./assets/Images/Untitled_%20Apr%2018%2C%202022%2010_16%20PM.gif)
+
+## License 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Contact Info
+E-Mail: devinnguyen@ucsb.edu
+[LinkedIn](https://www.linkedin.com/in/devin-nguyen-9a0676212/)
